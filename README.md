@@ -22,9 +22,5 @@ This project is a fully functional online recruitment platform designed to strea
 
 ## Installation and Setup
 
-Follow these steps to set up the project on your local machine:
 
-### Clone the Repository
-```bash
-git clone https://github.com/vasusunkireddy/recruitment.git
-cd recruitment
+
